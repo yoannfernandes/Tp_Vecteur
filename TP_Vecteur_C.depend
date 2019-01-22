@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548150559 source:c:\users\yoann\desktop\ludus\code blocks dossiers\tp_vecteur_c\fonction_vecteur_c.c
+	<stdio.h>
+	<stdlib.h>
+	"Tp_Vecteur_C_Header.h"
+
+1548148836 source:c:\users\yoann\desktop\ludus\code blocks dossiers\tp_vecteur_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tp_Vecteur_C_Header.h"
+
+1548151155 c:\users\yoann\desktop\ludus\code blocks dossiers\tp_vecteur_c\tp_vecteur_c_header.h
+
